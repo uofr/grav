@@ -1,17 +1,9 @@
 ---
 title: 'Who is Your Audience'
+published: true
 taxonomy:
     tag:
         - biol100
-published: true
-process:
-    markdown: true
-    twig: true
-child_type: default
-routable: true
-cache_enable: true
-visible: true
-label: 'Who is Your Audience'
 ---
 
 ## Who is your audience?

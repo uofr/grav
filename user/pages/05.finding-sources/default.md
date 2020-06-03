@@ -1,6 +1,9 @@
 ---
-title: Finding Sources
-menu: Finding Sources
+title: 'Finding Sources'
+taxonomy:
+    tag:
+        - biol100
+menu: 'Finding Sources'
 ---
 
 ## Primary Source

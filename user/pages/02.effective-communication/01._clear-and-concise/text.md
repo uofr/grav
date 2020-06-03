@@ -1,17 +1,9 @@
 ---
 title: 'Clear and Concise'
+published: true
 taxonomy:
     tag:
         - biol100
-published: true
-process:
-    markdown: true
-    twig: true
-child_type: default
-routable: true
-cache_enable: true
-visible: true
-label: 'Clear and Concise'
 ---
 
 > Have something to say, and say it as clearly as you can.  

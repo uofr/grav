@@ -1,6 +1,6 @@
 ---
-title: Common Errors
-menu: Common Errors
+title: 'Common Errors'
+menu: 'Common Errors'
 ---
 
 ## 10 Common writing errors:

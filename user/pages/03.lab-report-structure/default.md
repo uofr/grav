@@ -1,6 +1,6 @@
 ---
-title: Lab Report and Structure
-menu: Lab Report and Structure
+title: 'Lab Report and Structure'
+menu: 'Lab Report and Structure'
 ---
 
 ## In general, research reports contain the following sections (in the listed order)*:

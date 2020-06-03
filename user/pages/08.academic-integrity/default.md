@@ -1,6 +1,6 @@
 ---
-title: Academic Integrity
-menu: Academic Integrity
+title: 'Academic Integrity'
+menu: 'Academic Integrity'
 ---
 
 ???

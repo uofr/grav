@@ -1,7 +1,8 @@
 ---
-title: Welcome to lab report help!
-menu: Home & FAQ
+title: 'Welcome to lab report help!'
+menu: 'Home & FAQ'
 ---
+
 <script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 This website is intended to be used as a resource for writing research style biology lab reports.
 

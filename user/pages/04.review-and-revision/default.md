@@ -1,6 +1,6 @@
 ---
-title: Review and Revision
-menu: Review and Revision
+title: 'Review and Revision'
+menu: 'Review and Revision'
 ---
 
 ## How do I review my own writing?

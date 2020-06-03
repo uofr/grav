@@ -1,6 +1,6 @@
 ---
-title: Writing Resources
-menu: Writing Resources
+title: 'Writing Resources'
+menu: 'Writing Resources'
 ---
 
 ## Other resources for writing research reports
