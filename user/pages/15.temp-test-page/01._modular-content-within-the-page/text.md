@@ -6,4 +6,4 @@ taxonomy:
         - biol100
 ---
 
-Temp test page content
+More info goes here.
